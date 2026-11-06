@@ -1,16 +1,30 @@
-## Hi there 👋
+# 🐾 Hey, I'm git-meoww!
 
-<!--
-**git-meoww/git-meoww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Professional napper. Part-time keyboard destroyer. Full-time meow engineer. 🐱
 
-Here are some ideas to get you started:
+## 😼 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐾 Name: git-meoww
+- 💤 Occupation: Sleeping 16 hours a day
+- 💻 Skills: Walking on keyboards
+- 🐟 Favourite food: Fish
+- 🧶 Hobbies: Chasing invisible bugs
+- 🐈 Status: Probably sleeping right now
+
+## 🛠️ My Tech Stack
+
+`🐾 PawScript` `😹 Meow.js` `💤 SleepOS` `🐟 FishDB`
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=git-meoww&show_icons=true&theme=tokyonight)
+
+## 🐱 Fun Fact
+
+I don't write bugs. I chase them.
+
+---
+
+**Thanks for visiting my profile!**
+
+`git commit -m "meow meow meow 🐾"`
