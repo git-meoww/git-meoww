@@ -4,7 +4,7 @@
 
 ## 😼 About Me
 
-- 🐾 Name: git-meoww
+- 🐾 Name: Cable
 - 💤 Occupation: Sleeping 16 hours a day
 - 💻 Skills: Walking on keyboards
 - 🐟 Favourite food: Fish
