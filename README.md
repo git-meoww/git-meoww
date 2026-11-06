@@ -1,4 +1,4 @@
-# 🐾 Hey, I'm git-meoww!
+# 🐾 Hey, I'm cable!
 
 > Professional napper. Part-time keyboard destroyer. Full-time meow engineer. 🐱
 
