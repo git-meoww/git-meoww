@@ -15,9 +15,15 @@
 
 `🐾 PawScript` `😹 Meow.js` `💤 SleepOS` `🐟 FishDB`
 
-## 📊 GitHub Stats
+## Career Highlights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=git-meoww&show_icons=true&theme=tokyonight)
+ - 🥇 10,000+ hours of professional sleeping.
+
+ - 🏅 Successfully deleted important code by sitting on the keyboard.
+
+ - 🚀 Achieved 100% uptime while being completely offline.
+
+ - 💼 Rejected multiple job offers because they didn't include treats.
 
 ## 🐱 Fun Fact
 
