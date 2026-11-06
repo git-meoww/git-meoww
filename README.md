@@ -7,7 +7,7 @@
 - 🐾 Name: Cable
 - 💤 Occupation: Sleeping 16 hours a day
 - 💻 Skills: Walking on keyboards
-- 🐟 Favourite food: Fish
+- 🐟 Favourite food: Grainzero
 - 🧶 Hobbies: Chasing invisible bugs
 - 🐈 Status: Probably sleeping right now
 
