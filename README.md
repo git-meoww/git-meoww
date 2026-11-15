@@ -1,10 +1,10 @@
-# 🐾 Hey, I'm Mat!
+# 🐾 Hey, I'm Cat!
 
 > Professional napper. Part-time keyboard destroyer. Full-time meow engineer. 🐱
 
 ## 😼 About Me
 
-- 🐾 Name: Mat
+- 🐾 Name: Cat
 - 💤 Occupation: Sleeping 16 hours a day
 - 💻 Skills: Walking on keyboards
 - 🐟 Favourite food: Grainzero
